@@ -12,9 +12,13 @@ Use the Excel table provided, modify and analyze the data of 4,000 past Kickstar
 ---
 ## Results
 1. Category Analysis
+![category](https://github.com/hanyang2019/Kickstart_My_Chart/blob/master/Images/category.png?raw=true)
 2. Sub-Category Analysis
+![sub-category](https://github.com/hanyang2019/Kickstart_My_Chart/blob/master/Images/sub_category.png?raw=true)
 3. Monthly Analysis
+![monthly](https://github.com/hanyang2019/Kickstart_My_Chart/blob/master/Images/seasonal.png?raw=true)
 4. Outcome Analysis
+![outcome](https://github.com/hanyang2019/Kickstart_My_Chart/blob/master/Images/outcome.png?raw=true)
 
 ---
 ## Conclusion
